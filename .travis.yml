@@ -14,4 +14,4 @@ python:
 
 # command to run tests
 script:
-  - pytest # or py.test for Python versions 3.5 and below
+  - python ./mut_generator.py # or py.test for Python versions 3.5 and below
